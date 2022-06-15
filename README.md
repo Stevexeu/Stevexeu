@@ -1,7 +1,7 @@
-📌C# Developer
-📌Game Developer
-📌Applications & Media
+ • 📌C# Developer
+ • 📌Game Developer
+ • 📌Applications & Media
 
-⭐XtremeDevelopment - Owner
-⭐XtremeDevelopment - LeadDev
-⭐8+ Years coding experience.
+ • ⭐XtremeDevelopment - Owner
+ • ⭐XtremeDevelopment - LeadDev
+ • ⭐8+ Years coding experience.
