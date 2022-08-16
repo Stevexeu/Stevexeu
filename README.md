@@ -1,8 +1,7 @@
- - • 📌C# Developer
+ -  • 📌C# - Python - JavaScript - C++ - .NET
  -  • 📌Game Developer
  -  • 📌Applications & Media
- -  • ⭐XtremeDevelopment - Owner
- -  • ⭐XtremeDevelopment - LeadDev
+ -  • ⭐XtremeDevelopment - Programmer
  -  • ⭐8+ Years coding experience
  
 
