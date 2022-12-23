@@ -1,7 +1,8 @@
  -  • 📌C# - C - C++
- -  • 📌AAA Game Developer
+ -  • 📌Unity Game Developer
  -  • 📌Software & Games
- -  • ⭐XtremeDevelopment - Programmer
+ -  • ⭐[CURRENT] WickedStudios - Director & Programmer
+-   • ⭐[PREVIOUS] XtremeGames - Programmer
  -  • ⭐8+ Years coding experience
  
 
